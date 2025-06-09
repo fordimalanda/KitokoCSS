@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # 🌍 KitokoCSS
 
 **KitokoCSS** est un micro-framework CSS utilitaire, minimaliste et élégant, conçu pour construire des interfaces modernes, propres et responsives.
