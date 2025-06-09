@@ -1,4 +1,10 @@
+# Projet
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Framework: CSS](https://img.shields.io/badge/Framework-CSS-%231572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Status: Beta](https://img.shields.io/badge/Status-Beta-important)](https://github.com/votre-utilisateur/votre-projet)
+
+Un framework CSS moderne en développement actif.
 
 # 🌍 KitokoCSS
 
