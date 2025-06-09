@@ -1,0 +1,7 @@
+@import "variables/variables_color.css";
+
+:root {
+
+    /* font */
+    --font-main : 'Segoe UI' , sans-serif;
+}

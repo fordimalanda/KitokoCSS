@@ -1,0 +1,46 @@
+/* Spacing */
+.k-p-1{ padding: 0.25rem; }
+.k-p-2{ padding: 0.5rem; }
+.k-m-1{ margin: 0.25rem; }
+.k-m-2{ margin: 0.5rem; }
+.k-mt-1{ margin-top: 0.25rem; }
+.k-mt-2{ margin-top: 0.5rem; }
+
+/* Backgrounds */
+.k-bg-primary{ background-color: #007bff; }
+
+/* Colors Text*/
+.k-text-primary { color: var(--primary); }
+.k-text-danger { color: var(--danger); }
+.k-text-dark { color: var(--dark); }
+.k-text-white { color: var(--white); }
+.k-text-black { color: var(--black); }
+.k-text-charcoal { color: var(--charcoal); }
+.k-text-gray { color: var(--gray); }
+.k-text-silver { color: var(--silver); }
+.k-text-light { color: var(--light); }
+.k-text-soft-black { color: var(--soft-black); }
+.k-text-eerie-black { color: var(--eerie-black); }
+.k-text-jet { color: var(--jet); }
+
+.k-text-dim-grey { color: var(--dim-grey); }
+.k-text-light-gray { color: var(--danger); }
+.k-text-ivory { color: var(--ivory); }
+.k-text-warm-white { color: var(--warm-white); }
+.k-text-navy { color: var(--navy); }
+.k-text-dark-blue { color: var(--dark-blue); }
+
+
+
+.k-text-gold { color: var(--gold); }
+
+/* Display & Layout */
+.k-flex { display: flex; }
+.k-grid { display: grid; }
+.k-justify-center { justify-content: center; }
+.k-justify-sa { justify-content: space-around; }
+.k-justify-sb { justify-content: space-around; }
+.k-justify-se { justify-content: space-evenly; }
+
+/* text */
+.k-text-deco-none { text-decoration: none; }

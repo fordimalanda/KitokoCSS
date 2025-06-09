@@ -1,0 +1,85 @@
+:root {
+
+        /* NEUTRALS */
+    --primary : #007bff; --primary-h:#0056b3;
+    --danger : #dc3545;
+    --dark : #111111;
+    --white : #ffffff;
+    --black : #000000;
+    --charcoal : #333333;
+    --gray : #808080;
+    --silver : #CCCCCC;
+    --light : #F5F5F5;
+
+    --soft-black : #1E1E1E;
+    --eerie-black : #1B1B1B;
+    --jet : #343434;
+    --dim-grey : #696969;
+    --light-gray : #DCDCDC;
+    --ivory : #FFFFF0;
+    --warm-white : #FFFAFA;
+
+
+         /* BLUES */
+    --navy : #1E3A8A;
+    --dark-blue : #1E40AF;
+    --blue : #3B82F6;
+    --sky : #60A5FA;
+    --baby-blue : #BFDBFE;
+    --ocean : #3B82F6;
+    --ocean2 : #06b6d4;
+    --gray-bleu : #4B5563;
+    --deep-blue : #1E3A8A;
+    --sapphire : #0F52BA;
+    --denim : #1560BD;
+    --azure : #007FFF;
+    --celeste : #B2FFFF;
+    --steel-blue : #4682B4;
+
+
+        /* REDS/PINKS */
+    --burgundy : #991B1B;
+    --red : #DC2626;
+    --coral : #EF4444;
+    --salmon : #FECACA;
+    --crimson : #DC143C;
+    --blood-red : #880808;
+    --ruby : #E0115F;
+    --rose : #FF007F;
+    --blush : #DE5D83;
+
+
+        /* GREENS */
+    --forest : #166534;
+    --emerald : #22C55E;
+    --mint : #4ADE80;
+    --jade : #86EFAC;
+    --pale-green : #DCFCE7;
+
+
+        /* YELLOWS/ORANGES */
+    --gold : #854D0E;
+    --yellow : #EAB308;
+    --sunshine : #FACC15;
+    --orange : #F97316;
+    --amber : #F59E0B;
+    --warm-orange : #F97316;
+
+
+
+        /* PURPLES */
+    --royal : #5B21B6;
+    --purple : #7C3AED;
+    --lavender : #8B5CF6;
+    --lilac : #A78BFA;
+    --pastel-purple : #C4B5FD;
+
+
+        /* PASTELS */
+    --blush : #FBCFE8;
+    --powder-blue : #BFDBFE;
+    --seafoam : #A7F3D0;
+    --lemon : #FEF08A;
+    --wisteria : #DDD6FE;
+
+}
