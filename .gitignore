@@ -1,2 +1,6 @@
 #logs
 *.log
+
+#Archives
+*.zip
+*.rar
