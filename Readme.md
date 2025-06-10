@@ -35,5 +35,5 @@ Ajoute KitokoCSS via un lien CSS dans ton projet :
 ```
 
 ## 📸 Petit aperçu du projet
-<img src="images/Capture1.PNG" height="500" alt="capture1">
-<img src="images/Capture2.PNG" height="500" alt="capture1">
+![Capture1 d'écran du projet](images/Capture1.PNG) 
+![Capture2 d'écran du projet](images/Capture2.PNG)
