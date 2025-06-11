@@ -1,10 +1,31 @@
 /* Spacing */
-.k-p-1{ padding: 0.25rem; }
-.k-p-2{ padding: 0.5rem; }
-.k-m-1{ margin: 0.25rem; }
-.k-m-2{ margin: 0.5rem; }
-.k-mt-1{ margin-top: 0.25rem; }
-.k-mt-2{ margin-top: 0.5rem; }
+.k-p-1 { padding: 0.25rem; }
+.k-p-2 { padding: 0.5rem; }
+
+.k-m-0 { margin: var(--space-0); }
+.k-m-1 { margin: var(--space-1); }
+.k-m-2 { margin: var(--space-2); }
+.k-m-3 { margin: var(--space-3); }
+.k-m-4 { margin: var(--space-4); }
+.k-m-5 { margin: var(--space-5); }
+.k-m-6 { margin: var(--space-6); }
+.k-m-8 { margin: var(--space-8); }
+.k-m-10 { margin: var(--space-10); }
+
+
+.k-mt-0 { margin-top: 0; }
+.k-mt-1 { margin-top: 0.25rem; }
+.k-mt-2 { margin-top: 0.5rem; }
+.k-mt-3 { margin-top: 0.75rem; }
+.k-mt-4 { margin-top: 1rem; }
+.k-mt-5 { margin-top: 1.25rem; }
+.k-mt-6 { margin-top: 1.5rem; }
+.k-mt-8 { margin-top: 2rem; }
+.k-mt-10 { margin-top: 2.5rem; }
+
+.k-mb-3 { margin-bottom: 0.75rem; }
+
+.k-ml-2 { margin-left: 0.5rem; }
 
 /* Backgrounds */
 .k-bg-primary{ background-color: #007bff; }
