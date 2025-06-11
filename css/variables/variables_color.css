@@ -2,14 +2,17 @@
 
         /* NEUTRALS */
     --primary : #007bff; --primary-h:#0056b3;
+    --success: #28a745;
     --danger : #dc3545;
-    --dark : #111111;
+    --warning: #ffc107;
+    --info: #17a2b8;
+    --dark : #343a40;
     --white : #ffffff;
     --black : #000000;
     --charcoal : #333333;
     --gray : #808080;
     --silver : #CCCCCC;
-    --light : #F5F5F5;
+    --light : #f8f9fa;
 
     --soft-black : #1E1E1E;
     --eerie-black : #1B1B1B;
