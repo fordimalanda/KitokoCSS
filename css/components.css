@@ -22,13 +22,26 @@
     cursor: pointer;
     text-align: center;
 }
-
 .k-btn-border-primary-white:hover {
     transition: 0.5s;
     background-color: var(--primary);
     color: var(--white);
 }
 
+.k-btn-border-secondary-white {
+    padding: 0.5rem 1rem;
+    border: solid var(--secondary);
+    border-radius: 0.375rem ;
+    background-color: var(--white);
+    color: var(--secondary);
+    cursor: pointer;
+    text-align: center;
+}
+.k-btn-border-secondary-white:hover {
+    transition: 0.5s;
+    background-color: var(--secondary);
+    color: var(--white);
+}
 /* Card */
 .k-card {
     border: 1px solid #ddd;
