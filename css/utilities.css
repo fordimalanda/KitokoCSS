@@ -11,6 +11,7 @@
 
 /* Colors Text*/
 .k-text-primary { color: var(--primary); }
+.k-text-secondary { color: var(--secondary); }
 .k-text-danger { color: var(--danger); }
 .k-text-dark { color: var(--dark); }
 .k-text-white { color: var(--white); }
